@@ -1,0 +1,14 @@
+{
+	"appName": {
+		"message": "必应词典",
+		"description": "Name of application"
+	},
+	"appDescription": {
+		"message": "使用必应词典检索英文单词, 选中英文单词后, 点击右键, 选择本应用",
+		"description": "Description of application"
+	},
+	"contextTitle": {
+		"message": "使用必应词典查询 “%s”",
+		"description": "Name of item in context menu"
+	}
+}

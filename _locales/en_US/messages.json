@@ -1,0 +1,14 @@
+{
+	"appName": {
+		"message": "Bing Dict",
+		"description": "Name of application"
+	},
+	"appDescription": {
+		"message": "This extension search selected word using Bing dict.",
+		"description": "Description of application"
+	},
+	"contextTitle": {
+		"message": "Query \"%s\" using Bing dict",
+		"description": "Name of item in context menu"
+	}
+}
