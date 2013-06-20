@@ -2,7 +2,7 @@
 
 function openQueryTab(info, tab)
 {
-	var query_url = "http://cn.bing.com/dict/search?q=" + info.selectionText;
+	var query_url = "http://cn.bing.com/dict/search?q=" + encodeURIComponent(info.selectionText);
 	chrome.tabs.create({"url":query_url, "active":true});
 }
 
