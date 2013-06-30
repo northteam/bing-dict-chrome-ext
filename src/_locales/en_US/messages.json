@@ -4,7 +4,7 @@
 		"description": "Name of application"
 	},
 	"appDescription": {
-		"message": "This extension search selected word using Bing dict.",
+		"message": "This extension searches selected words using Bing dictionary.",
 		"description": "Description of application"
 	},
 	"contextTitle": {
