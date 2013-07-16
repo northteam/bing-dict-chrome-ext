@@ -1,5 +1,5 @@
 
-target = bing-dict-chrome-ext.zip
+target = "$(shell basename $(CURDIR)).zip"
 
 all:
 	zip -r $(target) src -x "*.swp" ".git*"
